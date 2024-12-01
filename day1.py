@@ -1,3 +1,4 @@
+# https://adventofcode.com/2024/day/1
 with open("day1.txt", 'r') as file:
     pairs = [line.strip().split("   ") for line in file]
 
